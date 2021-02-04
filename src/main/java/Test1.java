@@ -14,6 +14,10 @@ public class Test1 {
     }
     public void b(){
     }
+//abcd
+
+    ///test
+}
 
     public void c(){}
 }
