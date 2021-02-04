@@ -7,8 +7,7 @@ public class Test1 {
         //test
         System.out.print("abc");
         System.out.print("abc");
-        System.out.print("abc");
-        System.out.print("abc");
+       
 
     }
 }
