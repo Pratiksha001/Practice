@@ -15,6 +15,10 @@ public class Test1 {
     public void b(){
     }
 
+
+    ///test
+}
+
     public void c(){}
 }
 
